@@ -1,2 +1,2 @@
-cd kafka-local/Kafka
+cd Kafka
 docker compose up -d
